@@ -1,5 +1,5 @@
-![MasterHead](https://t3.ftcdn.net/jpg/05/15/16/12/360_F_515161254_2cp9OEcNqERA2KHp2jqaFfvF7Ze5oO4I.jpg)
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+![MasterHead](https://t3.ftcdn.net/jpg/05/15/16/12/360_F_515161254_2cp9OEcNqERA2KHp2jqaFfvF7Ze5oO4I.jpg)
 <h1 align ="center"> Welcome to my page!  🌸 </h1>
 <h3 align ="center"> Hey there, I'm Jessica, a high school student from Canada hoping to get better at programming and possibly game development. 
 <br>
