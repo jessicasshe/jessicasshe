@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/e7/a1/f1/e7a1f10408d696756560b71f807eca24.gif)
+![MasterHead](https://t3.ftcdn.net/jpg/05/15/16/12/360_F_515161254_2cp9OEcNqERA2KHp2jqaFfvF7Ze5oO4I.jpg)
 <h1 align ="center"> Hi! My name is Jessica </h1>
 <h3 align ="center"> High school student from Canada interested in getting better at programming. More information coming soon. </h3>
 
